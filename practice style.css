@@ -1,0 +1,58 @@
+
+
+
+
+
+
+body{
+    background-color: rgb(0, 0, 48);
+}
+
+h1{
+    color: red;
+}
+
+a{
+    color: wheat;
+    border: 2px wheat;
+    border-bottom-left-radius: 6cm;
+}
+nav{
+    color: brown;
+}
+label{
+    color: wheat;
+    border: 2px wheat;
+    border-bottom-left-radius: 6cm;
+}
+this is a comment
+h3{
+    color: rgb(255, 255, 0);
+
+}
+    /*text-decoration: underline;
+
+}
+
+class selector
+.sample{
+    text-decoration: underline;
+}
+
+#form{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 0px 0px ;
+    width: 10%;
+    color: aqua;
+}
+
+#div1{
+    border: 2px solid white;
+    padding: 20px;
+    margin: 70px;
+    width: 40%;
+    color: white;
+}*?
